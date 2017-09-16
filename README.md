@@ -76,7 +76,7 @@ output:
 This library is fully typed and can be imported using: 
 
 ```ts
-import filter from '@async-generators/map');
+import map from '@async-generators/map');
 ```
 
 It is also possible to directly execute your [properly configured](https://stackoverflow.com/a/43694282/1657476) typescript with [ts-node](https://www.npmjs.com/package/ts-node):
